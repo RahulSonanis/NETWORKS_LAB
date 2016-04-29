@@ -1,0 +1,9 @@
+./client 10.117.11.237 abc.com 35000 36000 10.117.11.237 xyz.com 37000 38000		// abc.com client
+
+./client 10.117.11.237 abc.com 35000 36000										// abc.com client
+
+./garuda_server 10.117.11.237 abc.com 35000 36000 10.117.11.237 37000				// abc.com server
+
+./garuda_server 10.117.11.237 xyz.com 37000 38000 10.117.11.237 35000				// xyz.com server
+
+10.5.22.227
